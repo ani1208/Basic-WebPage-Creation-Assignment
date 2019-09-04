@@ -6,9 +6,3 @@ while(x!=="Y") {
 alert("Thanks for visiting the website!");
 console.log("Thanks for visiting the website!");
 
-function validate()
-{
-	if(document.getElementById('button').clicked == true) {
-		swal("Thank You" , "Your response has been recorded" , "success");
-	}
-}
