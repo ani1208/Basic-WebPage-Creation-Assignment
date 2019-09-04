@@ -1,0 +1,31 @@
+body {
+	border:20px solid #bdc3c7;
+	padding:20px;
+	background-color: black; 
+	color: white;
+	max-width:700px;
+	width:80%;
+	margin:20px auto;
+	font-family:Source Sans Pro;
+}
+
+h2 {
+font-size: 2.0rem;
+color:#2c3e50;
+}
+
+.quote {
+	border-left:5px solid #bdc3c7;
+	padding-left:5px ;
+}
+
+.date {
+	color:#3498db;
+	text-transform: uppercase;
+	letter-spacing:0.2rem;
+}
+
+.navbar-brand {
+	font-color: white;
+	font-family: Karla , sans-serif;
+}
